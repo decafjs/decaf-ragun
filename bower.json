@@ -5,6 +5,7 @@
 	"ignore" : [
 	],
 	"dependencies" : {
+	  "decaf" : "decafjs/decaf#master"
 	},
 	"devDependencies": {
 	}

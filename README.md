@@ -1,2 +1,2 @@
-# decaf-ragun
+# decaf-raygun
 raygun.io integration for DecafJS
