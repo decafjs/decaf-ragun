@@ -1,4 +1,4 @@
-var {test_main, suite, test, assert} = require('unit-test');
+var {test_main, suite, test, assert} = require('Tests');
 
 require.paths.unshift('..');
 
